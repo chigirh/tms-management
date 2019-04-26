@@ -1,9 +1,9 @@
 # TrainingManagementSystem - 管理プロジェクト
 
 ## このプロジェクトは？
-TrainingManagementSystemの開発の管理を行うプロジェクト。  
+TrainingManagementSystem の開発の管理を行うプロジェクト。  
 フルリモートのアジャイルライクな開発を行うため、タスクはIssueをベースとして管理する。  
-あくまでも業務ではないのでタスクの見える化とか管理の容易性を上げるため、[ZenHub](https://github.com/SE-Garden/tms-management/edit/master/README.md#workspaces/tms-management-5cc2c43736b4b64850a0b79b/board?repos=183573990)を利用する。
+あくまでも業務ではないのでタスクの見える化とか管理の容易性を上げるため、[ZenHub](https://github.com/SE-Garden/tms-management/edit/master/README.md#workspaces/tms-management-5cc2c43736b4b64850a0b79b/board?repos=183573990) を利用する。
 
 ## 開発方針
 
