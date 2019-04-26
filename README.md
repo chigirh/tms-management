@@ -17,7 +17,7 @@ TrainingManagementSystem の開発の管理を行うプロジェクト。
 その経緯を表す文章なり資料なりが設計的な内容を含んでいても問題ない。  
 それは意識合わせに必要だったから作ったと考える。
 
-残す方法は、[Architecture Decision Record](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)を採用する。  
+残す方法は、[Architecture Decision Record](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions) を採用する。  
 アーキテクチャに該当すること以外にも方法を統一的にする。（簡易化のため）
 
 #### adr-toolsのインストール
