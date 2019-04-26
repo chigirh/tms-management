@@ -20,6 +20,11 @@ TrainingManagementSystemの開発の管理を行うプロジェクト。
 残す方法は、[Architecture Decision Record](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)を採用する。  
 アーキテクチャに該当すること以外にも方法を統一的にする。（簡易化のため）
 
+#### adr-toolsのインストール
+ADRを残すための支援ツールとして、[adr-tools](https://github.com/npryce/adr-tools) が提供されている。  
+[インストール手順](https://github.com/npryce/adr-tools/blob/master/INSTALL.md) を参考にしてインストールする。  
+Mac / Windows10 / Linux に対応しているので普通の人は大丈夫だと思う。  
+
 #### 流れのイメージ
 1. タスクを持った人間が、ADRを作成。
 1. 自分の考え等を書いて、どうよ？Slackで投げかける
