@@ -17,7 +17,7 @@ TrainingManagementSystem の開発の管理を行うプロジェクト。
 その経緯を表す文章なり資料なりが設計的な内容を含んでいても問題ない。  
 それは意識合わせに必要だったから作ったと考える。
 
-残す方法は、[Architecture Decision Record](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions) を採用する。  
+残す方法は、[Architecture Decision Record](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions) を採用する。  Wikiは使わない。
 アーキテクチャに該当すること以外にも方法を統一的にする。（簡易化のため）
 
 #### adr-toolsのインストール
@@ -26,12 +26,13 @@ ADRを残すための支援ツールとして、[adr-tools](https://github.com/n
 Mac / Windows10 / Linux に対応しているので普通の人は大丈夫だと思う。  
 
 #### 流れのイメージ
-1. タスクを持った人間が、ADRを作成する。コマンドは「`adr new some title` 」
+1. タスクを持った人間が、ADRを作成する。コマンドは「`adr new some title` 」 で####_some_titme.mdとかが作成される
 1. 自分の考え等を書いて、どうよ？Slackで投げかける
-1. 反応できる人間で一通り反応　→　決着
+1. 反応できる人間で一通り反応
+1. 議論の後、決定
 1. ADRを更新（タスクを持った人間が必須ではないが、基本そうなるはず）
 
-### プロジェクト
+## プロジェクト
 現在Organizationには古いプロジェクトも残っている状態。  
 紛らわしいので、一覧として分類しておく。
 
