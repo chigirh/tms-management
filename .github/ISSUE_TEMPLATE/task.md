@@ -1,7 +1,7 @@
 ---
 name: Task
 about: このプロジェクトを推進するタスク
-title: "[TASK]"
+title: ''
 labels: task
 assignees: ''
 
