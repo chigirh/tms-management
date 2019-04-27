@@ -10,6 +10,11 @@ TrainingManagementSystem の開発の管理を行うプロジェクト。
 業務ではないのでタスクの見える化とか管理の容易性を上げるため、[ZenHub](https://github.com/SE-Garden/tms-management/edit/master/README.md#workspaces/tms-management-5cc2c43736b4b64850a0b79b/board?repos=183573990) を利用する。  
 [こちらのリンク](https://www.zenhub.com/extension) からChromeもしくはFireFoxの拡張機能を入れると便利に利用可能になる。
 
+### ブランチ戦略
+ブランチ戦略は [GitHub Flow](https://gist.github.com/Gab-km/3705015) を採用する。  
+初期開発は変に難しいブランチ戦略にする必要性がない。  
+結合試験以降はまた変更すると思う。
+
 ### ドキュメンテーションの割愛
 今回はドキュメンテーションを極限まで割愛する。  
 あくまでも、コーディング関連の開発力を高めることを目的とする。  
