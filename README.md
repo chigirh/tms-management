@@ -2,10 +2,13 @@
 
 ## このプロジェクトは？
 TrainingManagementSystem の開発の管理を行うプロジェクト。  
-フルリモートのアジャイルライクな開発を行うため、タスクはIssueをベースとして管理する。  
-あくまでも業務ではないのでタスクの見える化とか管理の容易性を上げるため、[ZenHub](https://github.com/SE-Garden/tms-management/edit/master/README.md#workspaces/tms-management-5cc2c43736b4b64850a0b79b/board?repos=183573990) を利用する。
+フルリモートのアジャイルライクな開発を行うため、タスクはIssueをベースとして管理する。 
 
 ## 開発方針
+
+### タスク管理
+業務ではないのでタスクの見える化とか管理の容易性を上げるため、[ZenHub](https://github.com/SE-Garden/tms-management/edit/master/README.md#workspaces/tms-management-5cc2c43736b4b64850a0b79b/board?repos=183573990) を利用する。  
+[こちらのリンク](https://www.zenhub.com/extension) からChromeもしくはFireFoxの拡張機能を入れると便利に利用可能になる。
 
 ### ドキュメンテーションの割愛
 今回はドキュメンテーションを極限まで割愛する。  
