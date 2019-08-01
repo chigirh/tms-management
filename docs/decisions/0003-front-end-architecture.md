@@ -80,7 +80,7 @@ JavaScript の世界では、実装したコードにブラウザが対応して
 | CSS                  | Sass                          | その時の最新 | 要 Ruby 環境 |
 | パッケージマネージャ | npm                           | その時の最新 |              |
 | モジュールバンドラ   | webpack                       | その時の最新 |              |
-| トランスパイラ       | babel                         | その時の最新 |              |
+| トランスパイラ       | TypeScriptのコンパイラ         | その時の最新 |              |
 | Web フレームワーク   | Angular+Akita                 | その時の最新 |              |
 | コーディング規約     | Google JavaScript Style Guide |              |
 | 静的解析             | ESLint                        | その時の最新 |              |
